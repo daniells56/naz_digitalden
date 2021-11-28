@@ -1,0 +1,16 @@
+<meta>
+
+	<script src="config.lua" type="shared" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+
+	<file src="web-side/darkside.html" />
+	<file src="web-side/jquery-3.6.0.min.js" />
+	<file src="web-side/lightsaber.js" />
+	<file src="web-side/theforce.css" />
+	<file src="web-side/imagens/calculadora.png" />
+	<file src="web-side/imagens/celular.png" />
+	<file src="web-side/imagens/radio.png" />
+	<file src="web-side/imagens/rastreador.png" />
+
+</meta>
